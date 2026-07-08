@@ -1,0 +1,16 @@
+{
+  "name": "dark-eye-v3",
+  "version": "3.0.0",
+  "description": "DARK-EYE VISION V3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.17.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
