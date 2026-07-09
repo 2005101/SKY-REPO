@@ -8,7 +8,7 @@ ${body}
 > *POWERED BY DARK-EYE OFC*`
 }
 
-const totalCmds = 78; // update as you add
+const totalCmds = 130; // update as you add
 
 async function menuCommand(sock, chatId, message, senderId, prefix) {
     const text = message.message?.conversation || message.message?.extendedTextMessage?.text || '';
